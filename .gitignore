@@ -1,0 +1,9 @@
+#git ignore for databases
+.sql
+
+#git igone for python compiled files
+.pyc
+
+#ignore temporary files
+.*~
+
